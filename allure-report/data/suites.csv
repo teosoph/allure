@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Jul 26 00:00:17 EEST 2022","Tue Jul 26 00:00:20 EEST 2022","2925","","webdriver.io page","","webdriver.io page","should have the right title","should have the right title",""
